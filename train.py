@@ -1,1 +1,1 @@
-print("I want to create Deep Learning model")
+print("I want to create Linear Regression model")
